@@ -9,8 +9,8 @@ const CATEGORIES_OPTIONS = ['少萝', '御姐', '辣妹', '二次元', '纯欲',
 // 您需要去 cloudinary.com 注册一个免费账号
 // 1. Cloud Name: 您的云名称
 // 2. Upload Preset: 在 Settings -> Upload -> Upload presets 中创建一个 unsigned preset
-const CLOUDINARY_CLOUD_NAME = 'demo'; // 把 'demo' 换成您的 Cloud Name
-const CLOUDINARY_UPLOAD_PRESET = 'docs_upload_example_us_preset'; // 把这个换成您的 Preset
+const CLOUDINARY_CLOUD_NAME = 'dth1jgere'; // 把 'demo' 换成您的 Cloud Name
+const CLOUDINARY_UPLOAD_PRESET = 'ml_default'; // 把这个换成您的 Preset
 
 const initialForm: Model = {
     id: '',
